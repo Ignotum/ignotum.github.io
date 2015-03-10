@@ -1,0 +1,107 @@
+#scroll-animate {
+    overflow: hidden;
+}
+#scroll-animate-main {
+    width: 100%;
+    left: 0;
+    position: fixed;
+}
+#heightPage, #heightScroll {
+    width: 10px;
+    top: 0;
+    position: absolute;
+    z-index: 99;
+}
+#heightPage {
+    left: 0;
+}
+#heightScroll {
+    right: 0;
+}
+header {
+    width: 100%;
+    height: 100%;
+    top: 40px;
+    position: fixed;
+    z-index: -1;
+    background-size: cover;
+    color: #FFFFFF;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    margin: 0 auto;
+    overflow: auto;
+    overflow-x: hidden;
+    padding: 0px;
+    background-image: url("img/picture.jpg");
+    background-size: 100% auto;
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+.content {
+    background: #ededed;
+    position: relative;
+    z-index: 1;
+}
+.inner {
+    padding: 10px 200px 10px 200px;
+}
+.wrapper-parallax {
+    margin-top: 100%;
+    margin-bottom: 300px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
+}
+h1 {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 150px;
+    color: #ededed;
+}
+.content h1 {
+    color: #999;
+}
+footer {
+    background: #222;
+}
+footer h1 {
+    line-height: 300px;
+    color: #000;
+}
+header, #scroll-animate-main {
+    -webkit-transition-property: all;
+    -moz-transition-property: all;
+    transition-property: all;
+    -webkit-transition-duration: 0.4s;
+    -moz-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    -webkit-transition-timing-function: cubic-bezier(0, 0, 0, 1);
+    -moz-transition-timing-function: cubic-bezier(0, 0, 0, 1);
+    transition-timing-function: cubic-bezier(0, 0, 0, 1);
+}
+#menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.15);
+    background-color: red;
+}
+
+#nav-menu .nav-bar { list-style:none;  width: 300px;}
+#nav-menu .nav-bar li { display:inline; padding-left: 30px;}
+
+#nav-menu .nav-bar li a {
+  text-decoration: none;
+  padding: 50px, 0, 0, 0;
+  color: #777;
+}
