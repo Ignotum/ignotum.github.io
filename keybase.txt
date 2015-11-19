@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/ignotum
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ignotum.net
+  * I am ignotum (https://keybase.io/ignotum) on keybase.
+  * I have a public key with fingerprint C619 16D5 F2DD 07C9 2CC2  74A2 7354 524E 09C6 3620
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101894a3d64e9bcfff33fda1e7ae4683b1e105d4ac4aeb72b7d5e219c1874abb30b0a",
+            "fingerprint": "c61916d5f2dd07c92cc274a27354524e09c63620",
+            "host": "keybase.io",
+            "key_id": "7354524e09c63620",
+            "kid": "0101894a3d64e9bcfff33fda1e7ae4683b1e105d4ac4aeb72b7d5e219c1874abb30b0a",
+            "uid": "1ab2daea0cba738a063bea90322db219",
+            "username": "ignotum"
+        },
+        "service": {
+            "hostname": "ignotum.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447897538,
+    "expire_in": 157680000,
+    "prev": "631e5aa90e7ea7413c2128d4310eceaec176e5297d670f7cc17d5a6e41e7c728",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIdAnicrZJbSFRBGMdXVzOFInKfLCSOBS2ZnTm3OWchpDCkixAoailtc1s9qHvW
+3bNes0y8FEUGIfSgSYTQhZKyxzLz8qAFQUpJBj4URQVq2k1JaY7UQ9Bj8zLMN7//
+f/7fxwyvc7uSYuLXjzSeunSzOebJ446oKz/HO1gvYIvWCr56oYytbqycsojtLzOp
+4BNEIALdUJBMNYUZmAQCAVkOUAQYREzRdBkDBkSVKogoiGEoYUhVJgGDAB0qCGNZ
+xCIS0oWAGSxh4VDYDNrclmjAABpVAxKlIiSGRIjEcQnKqqJKChMNosmaJHJhqRVx
+FDwcRhGWYVq8xg/+1Xj/4P9z7uiqHUBYooghkWAEZR2JmowZMkRZkijmKgeMsHAQ
+VTBOmyVBy45WCA3pAi9WmYQ5c3Ua+RvICDKbK0Nhy7aIVc4vSm07FPE5Qrs25JDV
+DPt/e/ixGaR8ilxRxcIR0woKPsBJYpuOKVAUqBtQlfV0gdWEzDDzmw6hQk0X+XLe
+YVXcUpMBUxEPzyBDUAEykYCkU0UGIiMMMQKgxlTJgFSDYgASfqYq0pjCZ0egpAtO
+V5VBS/BJPCYq4ZYR3hCyo2EmNAwOFMe5YpJca+Jjnd/lSkrc8OfP3S1KWNkaurmz
+LS/hm3cu98z08FFPX9Ne/+a07bEr1+JHPydcPzdU9q7NPZq2KTo/WYRn5lrXrhRW
+05TaoZN5VXs6R6c9M01vmmr0WyR5//ho3dTxuiUiphm+eW80tvDl1Z6vXXG7x2ou
+3n8/tXA2v73vsn34WWqLcSKrxCsovdmJT29fyG0Buw4cynHlz3cbG7uLB7zZHXVj
+rbOd2qt7Qykj47P7PF1Hfm4BjZME33FX1uV5Mm/sqE8edEdrP34omlh8fmWuYaE9
+82F/wVJ3pPf8j2jB7OuD22J7Hi1PvHD55hqX7XY0knVsob/Zb059SfO451Xy6Xv7
+29Sx6sQHuW2Lp38BdDRDxw==
+=+JxX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ignotum
+
+==================================================================
+
