@@ -16,13 +16,13 @@
         background-size: cover;
     }
     </style>
-    <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+    <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
 </head>
 
 <body>
     <div id="images"></div>
     <script>
-    $.getJSON('https://www.reddit.com/r/nothing/.json?show=all&limit=1', function(data) {
+    $.getJSON('https://www.reddit.com/r/nsfw/new/.json?show=all&limit=1', function(data) {
         $.each(data.data.children, function(i, item) {
             IsValidImageUrl(item.data.url, function(url, isvalid) {
                 if (isvalid) {
